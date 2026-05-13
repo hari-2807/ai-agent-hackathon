@@ -1,2 +1,0 @@
-student,score,accuracy,f1_score,mse,r2_score,ai_score,feedback,problem_type
-harshit,0.8225,0.853,0.8532684362816545,,,7,Good model 👍 but can improve recall.,classification
